@@ -1,5 +1,5 @@
 
-# SDMN CC Checker Bot
+# Misa CC Checker Bot
 
 A Telegram CC Checker Bot with hella lotta features.
 
@@ -62,19 +62,19 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Server [MySQL DB Required]
 
- - Download the Files from [Here](https://github.com/iam-NVN/SDMN_CheckerBot/archive/refs/heads/main.zip)
+ - Download the Files from [Here](https://github.com/XUwUxX/Misa-Checker-Bot/archive/refs/heads/main.zip)
  - Upload it to your Server and Extract it
  - Edit config/config.php file and set Admin ID, Logs ID, DB Credentials and SK Keys
  - Import checkerbot.sql file into your Database through PHPmyAdmin
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-**[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
+**[Click Here to go to Heroku Version](https://github.com/XUwUxX/Misa-Checker-Bot/tree/heroku-version)**
 
 
 ## 🎯 Author
 
-- [@iam-NVN](https://www.github.com/octokatherine)
+- [@lisa_is_me](https://www.t.me/lisa_is_me)
 
 ## 💸 Donations 
 If you're feeling generous and want to support this project, you can donate 
